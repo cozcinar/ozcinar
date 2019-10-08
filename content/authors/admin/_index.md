@@ -22,8 +22,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Immersive Media
+- VR/AR
 - Image/Video Communication
 - Visual Attention
+- Computer vision
 
 education:
   courses:
