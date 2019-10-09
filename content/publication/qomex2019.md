@@ -33,9 +33,9 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-[[url_custom]]
-name = "View Proceeding Article"
-url = "https://ieeexplore.ieee.org/document/8743345"
+#[[url_custom]]
+#name = "View Proceeding Article"
+#url = "https://ieeexplore.ieee.org/document/8743345"
 
 [header]
 #image = "publications/alicke2015conceptions.png"
