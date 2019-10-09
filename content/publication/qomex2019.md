@@ -9,7 +9,7 @@
 
 title = "Voronoi-based Objective Quality Metrics for Omnidirectional Video"
 date = "2019-06-06"
-authors = ["Simone Croci" and "Cagri Ozcinar" and "Emin Zerman" and "Julian Cabrera" and "Aljosa Smolic"]
+authors = ["Simone Croci","Cagri Ozcinar","Emin Zerman","Julian Cabrera","Aljosa Smolic"]
 #authors = ["M. D. Alicke","D. R Mandel","D. Hilton","[T. Gerstenberg](https://tobiasgerstenberg.github.io/)","D. A. Lagnado"]
 publication_types = ["3"]
 publication = "In *11th International Conference on Quality of Multimedia Experience (QoMEX 2019)*"
