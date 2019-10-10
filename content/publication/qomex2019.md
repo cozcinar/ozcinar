@@ -21,7 +21,7 @@ highlight = true
 abstract= "Omnidirectional video (ODV) represents one of the latest and most promising trends in immersive media. The success of ODV depends on the ability to deliver high-quality ODV to the viewers. For this reason, new methods are needed to measure ODV quality that takes into account the interactive look around nature and the spherical representation of ODV. In this paper, we study full-reference objective quality metrics for ODV based on typical encoding distortions in adaptive streaming systems, namely, scaling and compression. The contribution of this paper is three-fold. First, we propose new objective metrics that take into account the unique aspects of ODV. The proposed metrics are based on the subdivision of a given ODV into multiple patches using the spherical Voronoi diagram. Second, we introduce a new dataset of 75 impaired ODVs with different resolutions and compression levels, together with the subjective quality scores gathered during an experiment with 21 participants. Third, we evaluate the proposed Voronoi-based objective metrics using our dataset. The evaluation of the proposed objective metrics and the comparison with existing metrics show that the proposed metrics achieve a better correlation with the subjective scores. The ODV dataset together with the subjective quality scores and the code of the proposed quality metrics are available with this paper."
 
 # Links (optional).
-url_pdf = "pdf/QoMEX2019.pdf"
+url_pdf = "https://www.scss.tcd.ie/~ozcinarc/pdf/QoMEX2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
