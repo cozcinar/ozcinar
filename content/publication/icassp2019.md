@@ -8,7 +8,7 @@
 # 5 -> 'Thesis'
 
 title = "Towards Generating Ambisonics Using Audio-visual Cue for Virtual Reality"
-date = "2019-5-12"
+date = "2019-05-12"
 authors = ["Aakanksha Rana","Cagri Ozcinar","Aljosa Smolic"]
 #authors = ["M. D. Alicke","D. R Mandel","D. Hilton","[T. Gerstenberg](https://tobiasgerstenberg.github.io/)","D. A. Lagnado"]
 publication_types = ["3"]
