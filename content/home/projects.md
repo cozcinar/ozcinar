@@ -32,6 +32,12 @@ subtitle = ""
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
+* [Tools](https://github.com/cozcinar/VI_VMAF_4_360) for Voronoi-based Objective Quality Metrics for Omnidirectional Video, QoMEX 2019.
+* [Source code](https://github.com/V-Sense/360SR) for the paper of Super-resolution of Omnidirectional Images Using Adversarial Learning, MMSP 2019.
+* [Dataset](https://github.com/V-Sense/360AudioVisual) for the paper of Towards generating ambisonics using audio-visual cue for virtual reality, ICASSP 2019.
+* [Tools](https://github.com/cozcinar/optimalTiles) for the paper of Visual Attention-Aware Omnidirectional Video Streaming Using Optimal Tiles for Virtual Reality, JETCAST 2019.
+* [Dataset](https://github.com/cozcinar/omniAttention) for the paper of Visual Attention in Omnidirectional Video for Virtual Reality Applications, QoMEX 2018.
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -66,18 +72,14 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
+
 [advanced]
  # Custom CSS. 
  css_style = ""
  
  # CSS class.
  css_class = ""
-* [Tools](https://github.com/cozcinar/VI_VMAF_4_360) for Voronoi-based Objective Quality Metrics for Omnidirectional Video, QoMEX 2019.
-* [Source code](https://github.com/V-Sense/360SR) for the paper of Super-resolution of Omnidirectional Images Using Adversarial Learning, MMSP 2019.
-* [Dataset](https://github.com/V-Sense/360AudioVisual) for the paper of Towards generating ambisonics using audio-visual cue for virtual reality, ICASSP 2019.
-* [Tools](https://github.com/cozcinar/optimalTiles) for the paper of Visual Attention-Aware Omnidirectional Video Streaming Using Optimal Tiles for Virtual Reality, JETCAST 2019.
-* [Dataset](https://github.com/cozcinar/omniAttention) for the paper of Visual Attention in Omnidirectional Video for Virtual Reality Applications, QoMEX 2018.
 
 +++
 
