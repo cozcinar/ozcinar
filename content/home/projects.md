@@ -76,10 +76,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+
 
   # overlay_color = "#333"  # An HTML color value.
   # overlay_img = ""  # Image path relative to your `static/img/` folder.
@@ -95,5 +92,5 @@ subtitle = ""
 
 +++
 
+* [Tools](https://github.com/cozcinar/VI_VMAF_4_360) for Voronoi-based Objective Quality Metrics for Omnidirectional Video, QoMEX 2019.
 
-  
