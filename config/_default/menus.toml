@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Dissemination"
+  name = "Code and Data"
   url = "#projects"
   weight = 40
 

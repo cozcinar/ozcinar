@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Dissemination"
+title = "Code and Data"
 subtitle = ""
 
 [content]
@@ -73,11 +73,13 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+* [Tools](https://github.com/cozcinar/VI_VMAF_4_360) for Voronoi-based Objective Quality Metrics for Omnidirectional Video, QoMEX 2019.
+* [Source code](https://github.com/V-Sense/360SR) for the paper of Super-resolution of Omnidirectional Images Using Adversarial Learning, MMSP 2019.
+* [Dataset](https://github.com/V-Sense/360AudioVisual) for the paper of Towards generating ambisonics using audio-visual cue for virtual reality, ICASSP 2019.
+* [Tools](https://github.com/cozcinar/optimalTiles) for the paper of Visual Attention-Aware Omnidirectional Video Streaming Using Optimal Tiles for Virtual Reality, JETCAST 2019.
+* [Dataset](https://github.com/cozcinar/omniAttention) for the paper of Visual Attention in Omnidirectional Video for Virtual Reality Applications, QoMEX 2018.
+
 +++
 
-[cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+
   
