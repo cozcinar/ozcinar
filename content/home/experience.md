@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Trinity College Dublin - SCSS - V-SENSE"
   company_url = "https://v-sense.scss.tcd.ie/"
   location = "Dublin, Ireland"
-  date_start = "2016-06-01"
+  date_start = "2016-07-01"
   date_end = ""
   description = """
   Responsibilities include:
