@@ -15,6 +15,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: V-SENSE, Trinity College Dublin
+  email: cagriozcinar@gmail.com
   url: "https://v-sense.scss.tcd.ie/"
 
 # Short bio (displayed in user profile at end of posts)
