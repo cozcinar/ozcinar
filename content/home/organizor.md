@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 45  # Order that this section will appear.
+weight = 55  # Order that this section will appear.
 
-title = "Code and Data"
+title = "Organizor"
 subtitle = ""
 
 [content]
@@ -86,9 +86,3 @@ subtitle = ""
 
 
 +++
-
-* [Tools](https://github.com/cozcinar/VI_VMAF_4_360) for Voronoi-based Objective Quality Metrics for Omnidirectional Video, QoMEX 2019.
-* [Source code](https://github.com/V-Sense/360SR) for the paper of Super-resolution of Omnidirectional Images Using Adversarial Learning, MMSP 2019.
-* [Dataset](https://github.com/V-Sense/360AudioVisual) for the paper of Towards generating ambisonics using audio-visual cue for virtual reality, ICASSP 2019.
-* [Tools](https://github.com/cozcinar/optimalTiles) for the paper of Visual Attention-Aware Omnidirectional Video Streaming Using Optimal Tiles for Virtual Reality, JETCAST 2019.
-* [Dataset](https://github.com/cozcinar/omniAttention) for the paper of Visual Attention in Omnidirectional Video for Virtual Reality Applications, QoMEX 2018.
