@@ -14,23 +14,23 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 30
-
-[[main]]
   name = "Code and Data"
   url = "#projects"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Organizor"
   url = "#organizor"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
+  weight = 50
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
