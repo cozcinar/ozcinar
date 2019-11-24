@@ -82,7 +82,14 @@ subtitle = ""
   # overlay_img = ""  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-# Voronoi-Metrics:
-
-
 +++
+*[Special Session](http://www.2020.ieeeicme.org/index.php/call-for-regular-and-special-session-papers/#ADVANCES) Special Session on Recent Advances in Immersive Imaging Technologies, ICME 2020.
+
+*[Special Session](http://2019.ieeeicip.org/upload/files/201812111154311717.pdf) Special Session on Recent Advances in Immersive Imaging Technologies, ICIP 2019.
+
+*[Special Session](http://www.eusipco2018.org/technical-program.php#S1569556688) Special Session on Recent Advances in Immersive Imaging Technologies, EUSIPCO 2018.
+
+*[Guest Editor](http://si.eurasip.org/issues/93/applications-of-visual-analysis-of-human/) Special Issue on Applications of Visual Analysis of Human Behaviour in EURASIP Journal on Image and Video Processing.
+
+*[Workshop and Challenge](http://www.fg2017.org/index.php/challenges/) Joint Challenge on Dominant and Complementary Emotion Recognition Using Micro Emotion Features and Head-Pose Estimation, IEEE FG 2017.
+
