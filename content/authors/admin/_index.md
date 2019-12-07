@@ -26,7 +26,8 @@ interests:
 - VR/AR
 - Image/Video Communication
 - Visual Attention
-- Computer vision
+- Machine Vision
+- Deep Learning
 
 education:
   courses:

@@ -19,14 +19,15 @@
   weight = 30
 
 [[main]]
-  name = "Code and Data"
-  url = "#projects"
+  name = "Organizor"
+  url = "#organizor"
   weight = 40
 
 [[main]]
-  name = "Organizor"
-  url = "#organizor"
+  name = "Code and Data"
+  url = "#projects"
   weight = 50
+
 
 [[main]]
   name = "Publications"
