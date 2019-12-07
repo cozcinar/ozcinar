@@ -84,7 +84,9 @@ subtitle = ""
   
 +++
 
-* [Special Session](http://qomex2020.ie/) Special Session on Learning-based Visual QoE Estimation Methods, QoMEX 2020.
+* [Tutorial](http://www.2020.ieeeicme.org/index.php/tutorials/#imImaging) Immersive Imaging Technologies: from Capture to Display, ICME 2020.
+
+* [Special Session](http://qomex2020.ie/authors/special-sessions) Special Session on Learning-based Visual QoE Estimation Methods, QoMEX 2020.
 
 * [Special Session](http://www.2020.ieeeicme.org/index.php/call-for-regular-and-special-session-papers/#ADVANCES) Special Session on Recent Advances in Immersive Imaging Technologies, ICME 2020.
 
