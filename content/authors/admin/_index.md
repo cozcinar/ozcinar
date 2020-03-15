@@ -38,15 +38,15 @@ education:
     institution: University of Surrey
     year: 2010
 
-Experience:
-  courses:
-  - Posdoctoral Researcher
-    institution: Institut Mines-Telecom Telecom
-ParisTech, Paris, France.
-    year: 2015 - 2016
-  - Research Fellow
-    institution: V-SENSE, Trinity College Dublin, Dublin, Ireland.
-    year: 2016 - 2020
+# Experience:
+#   courses:
+#   - Posdoctoral Researcher
+#     institution: Institut Mines-Telecom Telecom
+# ParisTech, Paris, France.
+#     year: 2015 - 2016
+#   - Research Fellow
+#     institution: V-SENSE, Trinity College Dublin, Dublin, Ireland.
+#     year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
