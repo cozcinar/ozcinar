@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Senior Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: V-SENSE, Trinity College Dublin
+- name: Samsung Electronics
   email: cagriozcinar@gmail.com
-  url: "https://v-sense.scss.tcd.ie/"
+  # url: "https://v-sense.scss.tcd.ie/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -37,6 +37,16 @@ education:
   - course: MSc in Multimedia signal processing and communication
     institution: University of Surrey
     year: 2010
+
+Experience:
+  courses:
+  - Posdoctoral Researcher
+    institution: Institut Mines-Telecom Telecom
+ParisTech, Paris, France.
+    year: 2015 - 2016
+  - Research Fellow
+    institution: V-SENSE, Trinity College Dublin, Dublin, Ireland.
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -77,8 +87,11 @@ user_groups:
 - Visitors
 ---
 
-Cagri Ozcinar is a research fellow within the V-SENSE project at School of Computer Science and Statistics (SCSS)/Trinity College Dublin (TCD), Ireland, since July 2016. He is working with Aljosa Smolic. 
+Starting from March 6th, 2020, I no longer work at Trinity College Dublin, but at Samsung Research Institute UK (SRUK). You can contact me via this page,LinkedIn, GitHub, etc.
+
+
+<!-- Cagri Ozcinar is a research fellow within the V-SENSE project at School of Computer Science and Statistics (SCSS)/Trinity College Dublin (TCD), Ireland, since July 2016. He is working with Aljosa Smolic. 
 Before he joined the V-SENSE team, he was a post-doctoral fellow in the Multimedia group at Institut Mines-Telecom Telecom
 ParisTech, Paris, France. He worked with Frederic Dufaux and Giuseppe Valenzise.
 Cagri received the MSc (Hons.) and the PhD degrees in electronic engineering from the University of Surrey, UK, in 2010
-and 2015, respectively. His PhD work was supervised by Ahmet Kondoz and Erhan Ekmekcioglu. His current research interests include computer vision, visual attention and communication techniques for immersive media technologies.
+and 2015, respectively. His PhD work was supervised by Ahmet Kondoz and Erhan Ekmekcioglu. His current research interests include computer vision, visual attention and communication techniques for immersive media technologies. -->
