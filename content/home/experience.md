@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Senior Engineer"
   company = "Samsung Electronics"
@@ -28,6 +29,20 @@ date_format = "Jan 2006"
   Responsibilities include:
   * Computer Vision
   * Machine Learning
+  """
+
+[[experience]]
+  title = "Research Fellow"
+  company = "Trinity College Dublin - SCSS - V-SENSE"
+  company_url = "https://v-sense.scss.tcd.ie/"
+  location = "Dublin, Ireland"
+  date_start = "2016-07-01"
+  date_end = "2016-02-29"
+  description = """
+  Responsibilities include:
+  * Video Communication
+  * Saliency/Visual Attention 
+  * VR/AR
   """
 
 [[experience]]

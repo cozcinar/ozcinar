@@ -90,11 +90,11 @@ email = "cagriozcinar@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Stack B, Custom House Quay, IFSC", city = "Dublin", postcode = "D01 Y6C3", country = "Ireland", country_code = "IE"}
+# address = {street = "Stack B, Custom House Quay, IFSC", city = "Dublin", postcode = "D01 Y6C3", country = "Ireland", country_code = "IE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "53.348528", longitude = "-6.249495"}
+# coordinates = {latitude = "53.348528", longitude = "-6.249495"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building and take the stairs to an office on Floor 2"
@@ -104,7 +104,7 @@ coordinates = {latitude = "53.348528", longitude = "-6.249495"}
 #office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/cagriozcinar/15min"
+# appointment_url = "https://calendly.com/cagriozcinar/15min"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
