@@ -22,12 +22,12 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Computer Vision
+- Deep Learning
+- Visual Attention
+- Media coding/streaming
 - Immersive Media
 - VR/AR
-- Image/Video Communication
-- Visual Attention
-- Machine Vision
-- Deep Learning
 
 education:
   courses:
@@ -87,11 +87,11 @@ user_groups:
 - Visitors
 ---
 
-Starting from March 6th, 2020, I no longer work at Trinity College Dublin, but at Samsung Research Institute UK (SRUK). You can contact me via this page,LinkedIn, GitHub, etc.
+<!-- Starting from March 6th, 2020, I no longer work at Trinity College Dublin, but at Samsung Research Institute UK (SRUK). You can contact me via this page,LinkedIn, GitHub, etc. -->
 
+You can contact me via this page, email (cagriozcinar {at} gmail {dot} com) / LinkedIn/ GitHub, etc.
 
-<!-- Cagri Ozcinar is a research fellow within the V-SENSE project at School of Computer Science and Statistics (SCSS)/Trinity College Dublin (TCD), Ireland, since July 2016. He is working with Aljosa Smolic. 
+Cagri Ozcinar is a senior research engineer at Samsung Research Institute UK (SRUK). Before that, he was a research fellow within the V-SENSE project at School of Computer Science and Statistics (SCSS)/Trinity College Dublin (TCD), Ireland.
 Before he joined the V-SENSE team, he was a post-doctoral fellow in the Multimedia group at Institut Mines-Telecom Telecom
-ParisTech, Paris, France. He worked with Frederic Dufaux and Giuseppe Valenzise.
-Cagri received the MSc (Hons.) and the PhD degrees in electronic engineering from the University of Surrey, UK, in 2010
-and 2015, respectively. His PhD work was supervised by Ahmet Kondoz and Erhan Ekmekcioglu. His current research interests include computer vision, visual attention and communication techniques for immersive media technologies. -->
+ParisTech, Paris, France. Cagri received the MSc (Hons.) and the PhD degrees in electronic engineering from the University of Surrey, UK, in 2010
+and 2015, respectively. His current research interests include image/video processing, coding/streaming, computer vision, and machine learning/deep learning for media technologies.

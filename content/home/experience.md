@@ -27,8 +27,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  * Computer Vision
+  * Deep Learning
   * Machine Learning
+  * AutoML
+  * Computer Vision
   """
 
 [[experience]]
@@ -37,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "https://v-sense.scss.tcd.ie/"
   location = "Dublin, Ireland"
   date_start = "2016-07-01"
-  date_end = "2016-02-29"
+  date_end = "2020-02-29"
   description = """
   Responsibilities include:
   * Video Communication
