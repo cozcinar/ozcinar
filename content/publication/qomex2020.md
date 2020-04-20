@@ -10,7 +10,6 @@
 title = "Textured mesh vs coloured point cloud: A subjective study for volumetric video compression"
 date = "2020-06-06"
 authors = ["Emin Zerman","Cagri Ozcinar","Pan Gao","Aljosa Smolic"]
-A. Lagnado"]
 publication_types = ["3"]
 publication = "Twelfth International Conference on Quality of Multimedia Experience ({QoMEX}) 2020"
 image_preview = ""
