@@ -10,7 +10,6 @@
 title = "Viewport-aware omnidirectional video streaming using visual attention and dynamic tiles"
 date = "2018-11-27"
 authors = ["Cagri Ozcinar", "Julian Cabrera", "Aljosa Smolic"]
-#authors = ["M. D. Alicke","D. R Mandel","D. Hilton","[T. Gerstenberg](https://tobiasgerstenberg.github.io/)","D. A. Lagnado"]
 publication_types = ["3"]
 publication = "In *7-th European Workshop on Visual Information Processing (EUVIP) 2018*"
 image_preview = ""

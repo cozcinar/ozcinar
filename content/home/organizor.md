@@ -83,6 +83,7 @@ subtitle = ""
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
 +++
+* [Special Session](https://attend.ieee.org/mmsp-2020/program/special-sessions/) Special Session on Perceptual Analysis and Representations for Immersive Imaging, MMSP 2020.
 
 * [Tutorial](http://www.2020.ieeeicme.org/index.php/tutorials/#imImaging) Immersive Imaging Technologies: from Capture to Display, ICME 2020.
 
